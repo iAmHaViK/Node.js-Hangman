@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAmHaViK/Node.js-Hangman.git"
+  },
+  "author": "Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAmHaViK/Node.js-Hangman/issues"
+  },
+  "homepage": "https://github.com/iAmHaViK/Node.js-Hangman#readme"
+}
