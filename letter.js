@@ -19,5 +19,13 @@ var letter = function(let){
 	};
 };
 
+// function Letter (charac){
+// 	this.charac = charac;
+// 	this.appear = false;
+// 	this.letterRender = function(){
+// 		retu
+// 	}
+// }
+
 //export the constructor
 module.exports = letter;

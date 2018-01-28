@@ -22,6 +22,7 @@ function Word(target) {
 	this.getLet = function() {
 		for (var i=0; i < this.target.length; i++) {
 			this.lets.push( new letter(this.target[i]));
+			// console.log(this.lets);
 		}
 	};
 
